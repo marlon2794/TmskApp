@@ -1,0 +1,2 @@
+rootProject.name='TmskApp'
+include ':app'
